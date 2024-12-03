@@ -25,7 +25,7 @@ const Search = () => {
 alt='UROOBALOGO'
 height={100}
 width={100} className='pl-2'></Image>
-<input type='text' className='w-[70%] h-10 border border-black my-2 'placeholder='enter any product name' >
+<input type='text' className='w-[70%] h-10 border border-black my-2  hidden lg:flex'placeholder='enter any product name' >
 
 
 </input>
